@@ -2,8 +2,7 @@
 
 .
 ├── README.md
-├── sqls
-│   ├── hackerrank
-│   ├── leetcode
-│   └── programmers
-
+└── sqls
+├── hackerrank
+├── leetcode
+└── programmers
